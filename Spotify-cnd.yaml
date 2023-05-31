@@ -1,0 +1,9 @@
+# NAME: Spotify-cdn
+# TOTAL: 6
+payload:
+  - DOMAIN-KEYWORD,pscdn.co
+  - DOMAIN-KEYWORD,scdn.co
+  - DOMAIN-KEYWORD,audio-akp-bbr-spotify-com.akamaized.net
+  - DOMAIN-KEYWORD,audio4-ak-spotify-com.akamaized.net
+  - DOMAIN-KEYWORD,audio-ak-spotify-com.akamaized.net
+  - DOMAIN-KEYWORD,heads-ak-spotify-com.akamaized.net
