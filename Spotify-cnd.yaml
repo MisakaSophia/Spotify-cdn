@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD,audio4-ak-spotify-com.akamaized.net
   - DOMAIN-KEYWORD,audio-ak-spotify-com.akamaized.net
   - DOMAIN-KEYWORD,heads-ak-spotify-com.akamaized.net
+  - DOMAIN-KEYWORD,spotifycdn.com
