@@ -1,2 +1,2 @@
 # Spotify-cdn
-spotify的cnd服务器域名
+spotify的cdn服务器域名
